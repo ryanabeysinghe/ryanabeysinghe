@@ -5,6 +5,12 @@
 I'm a Software Engineer based in College Park, Maryland. I find great satisfaction in the process of transforming concepts into cutting-edge web applications.
 Delve into my most recent experience, projects, and education, showcasing my knowledge in full stack development within the field of software engineering.
 
+As a Full Stack Developer, I have a comprehensive understanding of both front-end and back-end development. I enjoy utilizing the entire technology stack required to build and deploy web applications. Therefore, I strive to be well-versed in all aspects of the development process.
+
+Technology is constantly evolving and changing, and as a full stack developer, I understand the significance of staying up to date with the latest technologies, trends, and tools. I'm always eager to expand my knowledge and embrace new technologies that can enhance the development process.
+
+Outside of my professional career, I find myself immersed in a world of thrilling physical and mental challenges as a dedicated gym rat, capturing fleeting moments and transforming them into visual stories as an aspiring photographer, and embracing the electrifying atmosphere of sports as an enthusiast.
+
 <!--
 **ryanabeysinghe/ryanabeysinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
