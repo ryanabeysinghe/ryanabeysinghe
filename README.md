@@ -12,7 +12,7 @@ Technology is constantly evolving and changing, and as a developer, I understand
 Outside of my professional career, I find myself immersed in a world of thrilling physical and mental challenges as a dedicated gym rat, capturing fleeting moments and transforming them into visual stories as an aspiring photographer, and embracing the electrifying atmosphere of sports as an enthusiast.
 
 ---
-## 🧰 Languages and Tools
+## Languages and Tools 🧰 
 
 ### Programming Languages:
 
@@ -26,12 +26,13 @@ Outside of my professional career, I find myself immersed in a world of thrillin
 |----------|----------|----------|----------|----------|
 | <img alt="Dot Net" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" /> | <img alt="React JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> | <img alt="Next JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> | <img alt="Express JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /> | <img alt="Node JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
-<img alt="Mongo DB" width="50px" style="padding-right:10px; padding-top:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img alt="Google Firebase DB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-<img alt="Postgre SQL DB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img alt="Azure SQL DB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img alt="Azure" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
-<img alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+### Database Technologies & Management:
+
+| Firebase | MongoDB | Postgre | Azure | AWS |
+|----------|----------|----------|----------|----------|
+| <img alt="Google Firebase DB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> | <img alt="Mongo DB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> | <img alt="Postgre SQL DB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> | <img alt="Azure" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> | <img alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> |
+
+
 <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img alt="Visual Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <img alt="Jira" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
