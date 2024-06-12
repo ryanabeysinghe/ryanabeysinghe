@@ -5,7 +5,7 @@
 I'm a Software Engineer based in College Park, Maryland. I find great satisfaction in the process of transforming concepts into cutting-edge applications.
 Delve into my most recent experience, projects, and education, showcasing my knowledge in full stack development within the field of computer science.
 
-As a Developer, I have a comprehensive understanding of both front-end and back-end development. I enjoy utilizing the entire technology stack required to build and deploy applications. Therefore, I strive to be well-versed in all aspects of the development process.
+As a developer, I have a comprehensive understanding of both front-end and back-end development. I enjoy utilizing the entire technology stack required to build and deploy applications. Therefore, I strive to be well-versed in all aspects of the development process.
 
 Technology is constantly evolving and changing, and as a developer, I understand the significance of staying up to date with the latest technologies, trends, and tools. I'm always eager to expand my knowledge and embrace new technologies that can enhance the development process.
 
@@ -42,7 +42,7 @@ Outside of my professional career, I find myself immersed in a world of thrillin
 
 ## Contact 📞
 
-Contact me at [ryanabeysinghe75@gmail.com](mailto:ryanabeysinghe75@gmail.com) or [My Portfolio](https://ryanabeysinghe.com/contact) for any questions or inquiries.
+Contact me at [ryanabeysinghe75@gmail.com](mailto:ryanabeysinghe75@gmail.com) or [My Portfolio](https://ryanabeysinghe.com/contact) for any questions/inquiries.
 
 <!--
 **ryanabeysinghe/ryanabeysinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
