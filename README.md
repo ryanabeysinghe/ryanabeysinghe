@@ -14,8 +14,11 @@ Outside of my professional career, I find myself immersed in a world of thrillin
 ---
 ### 🧰 Languages and Tools
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
 <!--
 **ryanabeysinghe/ryanabeysinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
