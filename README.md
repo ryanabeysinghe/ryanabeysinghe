@@ -14,7 +14,7 @@ Outside of my professional career, I find myself immersed in a world of thrillin
 ---
 ### 🧰 Languages and Tools
 
-<div class="scrolling-wrapper">
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; padding: 10px; gap: 10px;">
     <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -42,17 +42,6 @@ Outside of my professional career, I find myself immersed in a world of thrillin
     <img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
     <img align="left" alt="Maven" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 </div>
-
-<style>
-    .scrolling-wrapper {
-        display: flex;
-        flex-wrap: nowrap;
-        overflow-x: auto;
-    }
-    .scrolling-wrapper img {
-        flex: 0 0 auto;
-    }
-</style>
 
 <!--
 **ryanabeysinghe/ryanabeysinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
