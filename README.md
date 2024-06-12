@@ -3,7 +3,7 @@
 **`Software Engineer`**
 
 I'm a Software Engineer based in College Park, Maryland. I find great satisfaction in the process of transforming concepts into cutting-edge applications.
-Delve into my most recent experience, projects, and education, showcasing my knowledge in full stack development within the field of software engineering.
+Delve into my most recent experience, projects, and education, showcasing my knowledge in full stack development within the field of computer science.
 
 As a Developer, I have a comprehensive understanding of both front-end and back-end development. I enjoy utilizing the entire technology stack required to build and deploy applications. Therefore, I strive to be well-versed in all aspects of the development process.
 
