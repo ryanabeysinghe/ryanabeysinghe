@@ -1,4 +1,9 @@
+# Ryan Abeysinghe
+
 **`Software Engineer`**
+
+I'm a Software Engineer based in College Park, Maryland. I find great satisfaction in the process of transforming concepts into cutting-edge web applications.
+Delve into my most recent experience, projects, and education, showcasing my knowledge in full stack development within the field of software engineering.
 
 <!--
 **ryanabeysinghe/ryanabeysinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
