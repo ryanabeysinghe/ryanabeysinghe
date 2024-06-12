@@ -28,7 +28,7 @@ Outside of my professional career, I find myself immersed in a world of thrillin
 
 ### Database Technologies & Management:
 
-| Firebase | MongoDB | Postgre | Azure | AWS |
+| Firebase | Mongo | Postgre | Azure | AWS |
 |----------|----------|----------|----------|----------|
 | <img alt="Google Firebase DB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> | <img alt="Mongo DB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> | <img alt="Postgre SQL DB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> | <img alt="Azure" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" /> | <img alt="AWS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> |
 
