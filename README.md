@@ -12,6 +12,7 @@ Technology is constantly evolving and changing, and as a developer, I understand
 Outside of my professional career, I find myself immersed in a world of thrilling physical and mental challenges as a dedicated gym rat, capturing fleeting moments and transforming them into visual stories as an aspiring photographer, and embracing the electrifying atmosphere of sports as an enthusiast.
 
 ---
+<!-- https://devicon.dev/ -->
 ## Languages and Tools 🧰 
 
 ### Programming Languages:
@@ -22,9 +23,9 @@ Outside of my professional career, I find myself immersed in a world of thrillin
 
 ### Frameworks & Platforms:
 
-| .NET | React | Next | Express | Node |
+| .NET | React | Next | Vite | Node |
 |----------|----------|----------|----------|----------|
-| <img alt="Dot Net" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" /> | <img alt="React JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> | <img alt="Next JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> | <img alt="Express JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" /> | <img alt="Node JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+| <img alt="Dot Net" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" /> | <img alt="React JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> | <img alt="Next JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> | <img alt="Vite JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" /> | <img alt="Node JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 
 ### Database Technologies & Management:
 
@@ -59,3 +60,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- CMD + Shift + V -- Preview README -->
